@@ -11,31 +11,23 @@ The designs were created to the following widths:
 
 ### Primary
 
-Bright Red: hsl(12, 88%, 59%)
-Dark Blue: hsl(228, 39%, 23%)
+- Soft blue: hsl(215, 51%, 70%)
+- Cyan: hsl(178, 100%, 50%)
 
 ### Neutral
 
-Dark Grayish Blue: hsl(227, 12%, 61%)
-Very Dark Blue: hsl(233, 12%, 13%)
-Very Pale Red: hsl(13, 100%, 96%)
-Vary Light Gray: hsl(0, 0%, 98%)
+- Very dark blue (main BG): hsl(217, 54%, 11%)
+- Very dark blue (card BG): hsl(216, 50%, 16%)
+- Very dark blue (line): hsl(215, 32%, 27%)
+- White: hsl(0, 0%, 100%)
 
 ## Typography
 
 ### Body Copy
 
-- Font size: 16px
+- Font size (paragraph): 18px
 
 ### Font
 
-- Family: [Be Vietnam](https://fonts.google.com/specimen/Be+Vietnam)
-- Weights: 400, 500, 700
-
-## Icons
-
-For the social icons, you can use the icons provided or a font icon library. Some suggestions for font icon libraries can be found below:
-
-- [Font Awesome](https://fontawesome.com)
-- [IcoMoon](https://icomoon.io)
-- [Ionicons](https://ionicons.com)
+- Family: [Outfit](https://fonts.google.com/specimen/Outfit)
+- Weights: 300, 400, 600
